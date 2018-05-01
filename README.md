@@ -1,7 +1,7 @@
 # HealthBarSAO
 A SAO health bar for unity3D
 
-![HealthBar finished](HealthBarFinish.gif)
+![HealthBar finished](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/healthBarFinish.gif)
 
 ### Install SVG converter
 First we need to install SVG to PNG convertes like [convert-svg-to-png](https://github.com/NotNinja/convert-svg) nodejs library:
@@ -61,4 +61,6 @@ Assign the components to the HealthBar GameObject:
 
 ## Final Result
 
-![HealthBar finished](HealthBarFinish.gif)
+![HealthBar finished](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/healthBarFinish.gif)
+
+Feel free to modify the svg files
