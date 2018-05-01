@@ -1,0 +1,27 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+width="1020" height="120">
+        <g id="1st">
+		<g id="gauge">
+			<g id="mid">
+				<linearGradient id="1st_hp_a" gradientUnits="userSpaceOnUse" x1="0" y1="30" x2="0" y2="150">
+						<stop offset="0" stop-color="#65A719" />
+						<stop offset="1" stop-color="#87D529" />
+					</linearGradient>
+					
+					<polygon fill="url(#1st_hp_a)" points="10,10 10,110 460,110 540,10" />
+			</g>
+			<g id="full" >
+				<linearGradient id="1st_hp_a" gradientUnits="userSpaceOnUse" x1="0" y1="30" x2="0" y2="150">
+						<stop offset="0" stop-color="#65A719" />
+						<stop offset="1" stop-color="#87D529" />
+					</linearGradient>
+					<polygon fill="url(#1st_hp_a)" points="10,10 10,110 460,110 500,60 910,60 950,10" />
+			</g>
+		</g>
+		<g id="wrapper">
+			<path stroke="#373737" fill="transparent" stroke-width="10" d="M10 10 v100 h450 l40-50 h450 l40-50z" />
+			<path stroke="#FBFBFB" fill="transparent" stroke-width="4" d="M6 8 v107 h457 l40-51 h450 l46-58z" />
+		</g>
+	</g>
+</svg>
