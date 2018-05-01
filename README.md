@@ -3,6 +3,8 @@ A SAO health bar for unity3D
 
 ![HealthBar finished](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/healthBarFinish.gif)
 
+Design inspired by: [darkblackswords](https://darkblackswords.deviantart.com/art/Sword-Art-Online-HP-Bar-342436869)
+
 ### Install SVG converter
 First we need to install SVG to PNG convertes like [convert-svg-to-png](https://github.com/NotNinja/convert-svg) nodejs library:
 
