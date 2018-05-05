@@ -21,11 +21,29 @@ convert-svg-to-png .\hud_mid.svg
 convert-svg-to-png .\hud_wrapper.svg
 ```
 Result:
+
+Background:
+
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_background.png)
+
+Normal HP:
+
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_hp_normal.png)
+
+Low HP:
+
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_hp_low.png)
+
+Danger HP:
+
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_hp_danger.png)
+
+Mask:
+
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_mask.png)
+
+Wrapper:
+
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_wrapper.png)
 
 ### Preparing sprites
