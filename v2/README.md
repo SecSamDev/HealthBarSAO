@@ -22,9 +22,9 @@ convert-svg-to-png .\hud_wrapper.svg
 ```
 Result:
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_background.png)
-![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_normal.png)
-![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_low.png)
-![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_danger.png)
+![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_hp_normal.png)
+![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_hp_low.png)
+![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_hp_danger.png)
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_mask.png)
 ![HealthBarSAO](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/hud_wrapper.png)
 
