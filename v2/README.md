@@ -121,6 +121,7 @@ This will move the image from positionX 0 (full HP) to -width(0 HP).
 
 ### HOW IT WORKS
 
+If we deactivate the mask :
 ![HealthBar finished](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/NoMaskV2.gif)
 
 ### Final Result
