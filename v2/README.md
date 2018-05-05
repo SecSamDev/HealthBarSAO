@@ -4,6 +4,7 @@ A SAO health bar for unity3D
 
 ![HealthBar finished](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/healthBarFinish.gif)
 
+
 Design inspired by: [darkblackswords](https://darkblackswords.deviantart.com/art/Sword-Art-Online-HP-Bar-342436869)
 
 ### Install SVG converter
@@ -118,6 +119,9 @@ public Sprite normal;
 
 This will move the image from positionX 0 (full HP) to -width(0 HP).
 
+### HOW IT WORKS
+
+![HealthBar finished](https://raw.githubusercontent.com/SecSamDev/HealthBarSAO/master/v2/NoMaskV2.gif)
 
 ### Final Result
 
